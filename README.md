@@ -31,9 +31,6 @@
   <li>🌸 Applying Chinese tea culture’s balance to data problem-solving techniques. 🍵</li>
 </ul>
 
-<!-- Tea Pot Image -->
-<img src="https://img.icons8.com/material-outlined/50/000000/teapot.png" alt="Tea Pot" width="50" height="50" style="margin-right: 15px; border: 2px solid #006400; border-radius: 10px; transition: transform 0.3s ease;" class="hover-zoom" />
-
 <!-- Let's Connect -->
 <h3 align="left" style="color: #006400; font-family: 'Verdana'; text-shadow: 1px 1px 2px #004d00;">Connect with Me:</h3>
 <p align="left">
