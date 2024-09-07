@@ -31,23 +31,17 @@
   <li>🌸 Applying Chinese tea culture’s balance to data problem-solving techniques. 🍵</li>
 </ul>
 
-<!-- Let's Connect -->
-<h3 align="left" style="color: #006400; font-family: 'Verdana'; text-shadow: 1px 1px 2px #004d00;">Connect with Me:</h3>
+<!-- Connect with Me -->
+<h3 align="left" style="color: #006400; font-family: 'Verdana';">Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adly-byby-42448b243/" target="_blank" style="text-decoration: none; color: #006400; transition: color 0.3s ease;">
+  <a href="https://www.linkedin.com/in/adly-byby-42448b243/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
-    <span style="display: block; text-align: center;">LinkedIn</span>
+    <span style="display: block; text-align: center; color: #006400;">LinkedIn</span>
   </a>
-  <a href="mailto:adly.byby@esprit.tn" style="text-decoration: none; color: #006400; transition: color 0.3s ease;">
+  <a href="mailto:adly.byby@esprit.tn" style="text-decoration: none; margin-left: 15px;">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40" />
-    <span style="display: block; text-align: center;">Email</span>
+    <span style="display: block; text-align: center; color: #006400;">Email</span>
   </a>
-</p>
-
-<!-- GitHub Stats -->
-<h3 align="center" style="color: #006400; font-family: 'Verdana'; text-shadow: 1px 1px 2px #004d00;">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bybyadly&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=github_dark&border_color=004d00&text_color=004d00&icon_color=006400" alt="Adly's GitHub Stats" />
 </p>
 
 <!-- Top Languages -->
