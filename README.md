@@ -60,9 +60,3 @@
 <p align="center" style="color: #004d00; font-family: 'Courier New'; font-size: 1.1em; text-shadow: 0 0 10px #00ff00;">
   "Data and Tea - A Symphony of Insights." 🍵
 </p>
-
-<style>
-.hover-zoom:hover {
-  transform: scale(1.2); /* Zoom effect */
-}
-</style>
