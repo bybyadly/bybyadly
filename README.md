@@ -28,7 +28,6 @@
 <h3 align="left" style="color: #006400; font-family: 'Verdana'; text-shadow: 1px 1px 2px #004d00;">Current Adventures:</h3>
 <ul style="color: #004d00; font-family: 'Trebuchet MS';">
   <li>🌸 Exploring advanced machine learning & predictive analytics.</li>
-  <li>🌸 Applying Chinese tea refinement to data problem-solving techniques. 🍵</li>
 </ul>
 
 <!-- Connect with Me -->
